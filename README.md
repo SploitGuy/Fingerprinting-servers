@@ -1,2 +1,2 @@
 # Fingerprinting-servers
-Fingerprinting servers through HTTP headers
+Tool for Fingerprinting servers through HTTP headers
