@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import requests
 
-
+//use the target url
 req = requests.get('http://10.0.3.8')
 headers = ['Server', 'Date', 'Via', 'X-Powered-By', 'X-Country-Code']
 for header in headers:
